@@ -9245,7 +9245,7 @@ Diese Datei wurde vermutlich umbenannt, gelöscht oder verschoben.</translation>
     </message>
     <message>
         <source>System DPI is asymmetric. WPS Office may have display issues.</source>
-        <translation>System DPI ist asymmetrisch. Vielleciht Anzeigeproblemen von WPS gefunden.</translation>
+        <translation>System DPI ist asymmetrisch. Vielleicht Anzeigeprobleme von WPS gefunden.</translation>
     </message>
 </context>
 <context>
